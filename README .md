@@ -1,4 +1,4 @@
-Netflix Movies vs TV Series--Project-1 I used the Netflix dataset from Kaggle. It is for Udacity Data Science Nanodegree program.
+Netflix Movies vs TV Series--Project-1 I used the Netflix dataset from Kaggle. 
 
 Motivation of project Following the CRISP_DM methodology I used the Netflix dataset to analyse themost watched content on their platform. The dataset is from Kaggle and can be found https://www.kaggle.com/datasets/infamouscoder/dataset-netflix-shows
 
